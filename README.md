@@ -11,7 +11,7 @@ Ziyuan Xu, Shijie Zhou, Minakshi
 
 We’ve downloaded 50 abstracts of literature on each subtype of leukemia(AML, ALL, CML, CLL) from PubMed respectively and acquired a total of 200 TXT format files. These texts are unstructured natural language texts, so we need to structure and classify them. In this project, we are using Mendeley to convert these texts into XML format files. Then, in order to build our own dataset, we extracted some important attributes from these XML files: authors, title, year, electronic-resource-num, periodical, abstract. These attributes will be used as column names. Additionally, we added an attribute to the column name, namely paper_id. 
 
-# Screenshot 
+# Screenshot of dataset
 
 ![Capture](https://user-images.githubusercontent.com/96027933/145858538-d39d3006-c4b1-461e-829f-8a5b0d1f4c46.PNG)
 
