@@ -34,26 +34,19 @@ Activate tensorflow then open jupyter notebook -> upload the project file and ru
 
 # Screenshot of code
 
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/96027933/145916329-b2edcab8-7f77-465b-9a79-f3bbe25ce5b0.png)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/96027933/145917694-53aa6f76-fced-450a-8ca5-ef08ff72aa5b.png)
 
-![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/96027933/145916349-809b825c-75f8-4832-b215-397aef0860d9.png)
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/96027933/145917738-c3e7d5d3-9f7a-4314-8507-867ff43d9832.png)
 
-![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/96027933/145916372-789e91b6-4142-498d-9a66-57ebc9db6211.png)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/96027933/145917787-d700768f-4360-4bc2-a6df-0da610e7e86f.png)
 
-![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/96027933/145916424-1f0d388a-f395-4159-802a-e88fc93a67fe.png)
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/96027933/145917833-96f4397c-7836-4717-ad18-838e49bec698.png)
 
-![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/96027933/145916530-08615c56-92de-41c6-bbb1-271b90e8adbd.png)
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/96027933/145917873-83590c23-119a-4944-a376-85a117eec36c.png)
 
-![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/96027933/145916631-74faba5f-ebf3-4ca8-9b47-e46853270880.png)
+![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/96027933/145917926-dbf7269b-0d6c-48eb-a4c2-d052948699c9.png)
 
-![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/96027933/145916683-2756b1aa-2fd7-4610-be53-45fcbe6dcb24.png)
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/96027933/145917982-fb30c51d-acad-4084-a62a-e63f50c7b63d.png)
 
-
-
-
-
-
-
-
-
+![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/96027933/145918055-c0643dd0-a52c-47be-970e-7f52a2125d43.png)
 
